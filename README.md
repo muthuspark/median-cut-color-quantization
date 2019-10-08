@@ -22,3 +22,6 @@ optional arguments:
 Example:  python3 mcquantizer.py -c 6 -o /path/girl64.jpg -i /path/girl.jpg
 
 ```
+
+## Licence
+MIT
